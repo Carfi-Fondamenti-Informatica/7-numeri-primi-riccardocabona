@@ -9,7 +9,7 @@ int main() {
         cout<<"numero primo";
     }
     else{
-        cout<<"numero NON primo";
+        cout<<"numero non primo";
     }
     return 0;
 }
